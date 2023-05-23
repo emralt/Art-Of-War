@@ -1,6 +1,6 @@
 # Art Of War HTML-CSS Project
 
-## What I Used Languages and Tools
+## Languages and Tools Which I Used
 
 - Made using html and css
 - Responsive
